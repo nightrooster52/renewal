@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.Sprite;	import fl.motion.Color;	import fl.motion.ColorMatrix;	public class CONSTANTS extends Sprite{				public static const GREEN:uint = 0x338833;				public function CONSTANTS() {			// constructor code		}	}	}

@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.Sprite;	import flash.events.*	public class Head extends Sprite{		public function Head() {			addEventListener(Event.ADDED, init);		}		private function init(evt:Event):void{			removeEventListener(Event.ADDED, init);			this.graphics.beginFill(CONSTANTS.GREEN, 1);			this.graphics.drawCircle(0, 0, 50);					}			}	}
