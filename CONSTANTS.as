@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.Sprite;	import fl.motion.Color;	import fl.motion.ColorMatrix;	public class CONSTANTS extends Sprite{				public static const GREEN:uint = 0x338833;				public function CONSTANTS() {			// constructor code		}	}	}
+﻿package {	import flash.display.Sprite;	import flash.events.Event;	import fl.motion.Color;	public class CONSTANTS extends Sprite	{		public static const GREEN:uint = 0x338833;		public static const STAGEHEIGHT:uint = 600;		public static const STAGEWIDTH:uint = 1000;		public function CONSTANTS()		{		}	}}
