@@ -1,1 +1,1 @@
-﻿package  {	import flash.display.Sprite;	import flash.events.*	public class Head extends Sprite{		public function Head() {			addEventListener(Event.ADDED, init);		}		private function init(evt:Event):void{			removeEventListener(Event.ADDED, init);					}			}	}
+﻿package  {	import flash.display.Sprite;	import flash.events.*	public class Head extends Sprite{		public function Head() {		}			}	}
